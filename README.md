@@ -12,8 +12,8 @@ On creation each Token will fit snuggly into the pattern of your mold.
 - [Auras/Sticky Templates](#sticky-templates). Make your templates follow your tokens around and even rotate with them.
 - [Customizable overlay](#customizable-token-overlay) on token hover, for quick reference
 - [Automatic name hiding](#hide-names)
-- [Hit Point rolling](#hit-point-rolling) by formula (currently dnd5e only)
-- [Automatic token scaling](#automatic-token-scaling) according to creature size and map grid distance.  (dnd5e and pf2e only)
+- [Hit Point rolling](#hit-point-rolling) by formula (currently sw5e only)
+- [Automatic token scaling](#automatic-token-scaling) according to creature size and map grid distance.  (sw5e and pf2e only)
 
 ## Installation
 - Copy [https://raw.githubusercontent.com/Moerill/token-mold/master/src/module.json](https://raw.githubusercontent.com/Moerill/token-mold/master/src/module.json) into the module installer inside foundry
